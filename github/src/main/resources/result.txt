@@ -1,0 +1,50 @@
+Nickname: sergey-sw
+Full Name: Sergey Saiyan
+Company: Amazing Hiring
+Location: Moscow
+Most common language: Java
+Popular repository: ray
+Stars: 3
+Language: Java
+
+
+Nickname: serhii-londar
+Full Name: Serhii Londar
+Company: TechMagic
+Location: Lviv, Ukraine
+Most common language: Swift
+Popular repository: DocumenterXcode
+Stars: 7
+Language: Objective-C
+
+
+Nickname: jnunemaker
+Full Name: John Nunemaker
+Company: GitHub, Fewer & Faster
+Location: Indiana
+Most common language: Ruby
+Popular repository: flipper
+Stars: 1612
+Language: Ruby
+
+
+Nickname: HugoGiraudel
+Full Name: Hugo Giraudel
+Company: Edenspiekermann, SassDoc
+Location: Berlin
+Most common language: JavaScript
+Popular repository: sass-boilerplate
+Stars: 1356
+Language: CSS
+
+
+Nickname: Piterden
+Full Name: Denis Efremov
+Company: SuperBot
+Location: Saint Petersburg, Russia
+Most common language: PHP
+Popular repository: chessbot
+Stars: 9
+Language: JavaScript
+
+
